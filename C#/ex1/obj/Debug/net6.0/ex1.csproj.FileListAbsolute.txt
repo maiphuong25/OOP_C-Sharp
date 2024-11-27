@@ -1,0 +1,60 @@
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\bin\Debug\net6.0\ex1.exe
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\bin\Debug\net6.0\ex1.deps.json
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\bin\Debug\net6.0\ex1.runtimeconfig.json
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\bin\Debug\net6.0\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\bin\Debug\net6.0\ex1.pdb
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.csproj.AssemblyReference.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.AssemblyInfoInputs.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.AssemblyInfo.cs
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.csproj.CoreCompileInputs.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\refint\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.pdb
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.genruntimeconfig.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\Lập trình hướng đối tượng OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ref\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\bin\Debug\net6.0\ex1.exe
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\bin\Debug\net6.0\ex1.deps.json
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\bin\Debug\net6.0\ex1.runtimeconfig.json
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\bin\Debug\net6.0\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\bin\Debug\net6.0\ex1.pdb
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.csproj.AssemblyReference.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.AssemblyInfoInputs.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.AssemblyInfo.cs
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.csproj.CoreCompileInputs.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\refint\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.pdb
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ex1.genruntimeconfig.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\SLIDE OOP\C#\ex1\obj\Debug\net6.0\ref\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.csproj.AssemblyReference.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.AssemblyInfoInputs.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.AssemblyInfo.cs
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.csproj.CoreCompileInputs.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\obj\Debug\net6.0\refint\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.pdb
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\bin\Debug\net6.0\ex1.exe
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\bin\Debug\net6.0\ex1.deps.json
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\bin\Debug\net6.0\ex1.runtimeconfig.json
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\bin\Debug\net6.0\ex1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\bin\Debug\net6.0\ex1.pdb
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.genruntimeconfig.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\ex1\obj\Debug\net6.0\ref\ex1.dll
+E:\University\Semester 1 year 2\OOP\C#\ex1\bin\Debug\net6.0\ex1.exe
+E:\University\Semester 1 year 2\OOP\C#\ex1\bin\Debug\net6.0\ex1.deps.json
+E:\University\Semester 1 year 2\OOP\C#\ex1\bin\Debug\net6.0\ex1.runtimeconfig.json
+E:\University\Semester 1 year 2\OOP\C#\ex1\bin\Debug\net6.0\ex1.dll
+E:\University\Semester 1 year 2\OOP\C#\ex1\bin\Debug\net6.0\ex1.pdb
+E:\University\Semester 1 year 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.csproj.AssemblyReference.cache
+E:\University\Semester 1 year 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Semester 1 year 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.AssemblyInfoInputs.cache
+E:\University\Semester 1 year 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.AssemblyInfo.cs
+E:\University\Semester 1 year 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.csproj.CoreCompileInputs.cache
+E:\University\Semester 1 year 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.dll
+E:\University\Semester 1 year 2\OOP\C#\ex1\obj\Debug\net6.0\refint\ex1.dll
+E:\University\Semester 1 year 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.pdb
+E:\University\Semester 1 year 2\OOP\C#\ex1\obj\Debug\net6.0\ex1.genruntimeconfig.cache
+E:\University\Semester 1 year 2\OOP\C#\ex1\obj\Debug\net6.0\ref\ex1.dll

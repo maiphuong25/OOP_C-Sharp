@@ -1,0 +1,50 @@
+
+// class Program
+//     {
+//         static void Main(string[] args)
+//         {
+//             int a = 96;
+//             Console.WriteLine("Gia tri cua a la:{-",a);
+//             XUAT(a);
+//             Console.ReadLine();
+//         }
+//         static void XUAT(int a)
+//         {
+//             a=a+10;
+//             Console.WriteLine("Gia tri cua a sau khi thay doi la:{0}",a);
+//         }
+//     }
+
+// class Program
+// {
+//         static void Main(string[] args)
+//         {
+//             int a = 96;
+//             Console.WriteLine("Gia tri cua a la:{0}",a);
+//             XuatRef(a);
+//             Console.WriteLine("Gia tri cua a bay gio la:{0}",a);
+//             Console.ReadLine();
+//         }
+//         static void XuatRef(int a)
+//         {
+//             a=a+10;
+//             Console.WriteLine("Gia tri cua a sau khi thay doi la:{0}",a);
+//         }
+// }
+
+// class Program
+// {
+//         static void Main(string[] args)
+//         {
+//             int a = 96;
+//             Console.WriteLine("Gia tri cua a la: " +a);
+//             DemoRef(ref a);
+//             Console.WriteLine("Gia tri cua a bay gio la: " + a);
+//             Console.ReadLine();
+//         }
+//         static void DemoRef(ref int a)
+//         {
+//             a += 5;
+//             Console.WriteLine("Gia tri cua a sau khi thay doi la: " +a);
+//         }
+// }
